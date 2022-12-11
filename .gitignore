@@ -1,4 +1,4 @@
-build\
-launcher\build\
+build/
+launcher/build/
 *.001
 update.cmd
